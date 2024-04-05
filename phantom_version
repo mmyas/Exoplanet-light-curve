@@ -1,0 +1,10 @@
+Compilation details:
+   Date compiled: Thursday 04 April 2024 05:19:55 PM IST
+   Pre-processor flags used: -DISOTHERMAL -DDISC_VISCOSITY -DIND_TIMESTEPS
+ 
+Version details:
+   Date this version was committed to the repository:    Thu Apr 4 08:45:01 2024 +1100
+   Commit tag:     v2024.0.0-93-g063427b6
+   Full commit ID: 063427b68e64895d075cad88fc5b1a5fe51b3ac2 
+   Locally modified files:
+
